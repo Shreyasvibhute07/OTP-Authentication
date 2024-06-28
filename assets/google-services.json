@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37537333036",
+    "project_id": "demo4-81a52",
+    "storage_bucket": "demo4-81a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37537333036:android:b2e0c22dbd77fc8271b689",
+        "android_client_info": {
+          "package_name": "com.example.anshul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfr-PJTZ4FwEN6VQ3HFTQpgK0vUeOj7Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
