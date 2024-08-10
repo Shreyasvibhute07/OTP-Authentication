@@ -1,6 +1,6 @@
-# anshul
+# OTP Authentication System
 
-A new Flutter project.
+A new Flutter project which enables OTP AUthentication system using Firebase
 
 ## Getting Started
 
